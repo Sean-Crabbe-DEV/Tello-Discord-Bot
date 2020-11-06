@@ -276,7 +276,7 @@ async def play(ctx, *,url: str):
 
 ############################################ Bot Token
 #DO NOT SHARE!
-client.run('NzQwNDYyMzc4NDMyMzMxODE4.XypXVA.h8P4iUx6WpOSYWE8nZ5JwTeoKzk')
+client.run('NzQwNDYyMzc4NDMyMzMxODE4.XypXVA.8EhIXi8louDekQenSMGnzbZ3dxw')
 
 #Stops the program instantly closing when its run outside of the IDLE / Shell
 input("Press enter to close program")
